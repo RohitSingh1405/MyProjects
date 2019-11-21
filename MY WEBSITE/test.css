@@ -1,0 +1,52 @@
+body
+{
+	padding: 10%;
+}
+h2
+{
+	margin-top: 10px;
+	margin-left: 20px;
+	color: #FF212E;
+
+}
+h3
+{
+	margin-left: 20px;
+	margin-top: 2px;
+
+}
+
+.container
+{
+	/*border:2px solid #ccc; */
+	width:200px; 
+	height: 200px; 
+	overflow-y: scroll;
+
+}
+img
+{
+	height:200px;
+	width: 200px;
+}
+.small
+{
+	font-size: 10px;
+	padding: 3px;
+}
+#one
+{
+	font-size: 11px;
+}
+.container-fluid
+{
+	border: 2px solid black;
+}
+.img
+{
+	padding-left: 5px;
+}
+div
+{
+	font-family: "Times New Roman", Times, serif;
+}

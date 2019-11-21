@@ -1,0 +1,63 @@
+
+#content
+{
+	text-align: center;
+    padding-top: 20%;
+}
+nav
+{
+	padding-left: 5%;
+	font-size: 20px;
+}
+
+body {
+  font-family: 'Nunito Sans', sans-serif;
+  font-weight: 400;
+  line-height: 1.6;
+  color: #655A56;
+  /* background-image: linear-gradient(to right bottom, #DCDCDC, #A9A9A9);
+  background-image: url(computer-desk-doctor-48604.jpg);
+background-image: url(black-and-white-blood-pressure-blood-pressure-monitor-208556.jpg);*/
+  
+  background-image: url(OGFB4B0.jpg);
+  background-attachment: scroll;
+  background-size: cover;
+  background-repeat: no-repeat;
+  backface-visibility: hidden;
+  min-height: calc(100vh - 2 * 4vw); 
+  width: 100%;
+  }
+
+
+h1,h2
+{
+color: #B22222;
+}
+h1
+{
+	font-weight: 700;
+	font-size: 5em;
+}
+html
+{
+	height: 100%;
+}
+hr
+{
+	width:400px;
+     
+}
+/*nav navbar-nav
+{
+	background-color:black;
+}*/
+/*#box
+{
+  border: 1px solid rgba(240, 210, 210,0.8);
+  -webkit-box-shadow: 0pt 2px 5px rgba(105, 108, 109,  0.7),  0px 0px 8px 5px rgba(208, 223, 226, 0.4) inset;
+     -moz-box-shadow: 0pt 2px 5px rgba(105, 108, 109,  0.7),  0px 0px 8px 5px rgba(208, 223, 226, 0.4) inset;
+          box-shadow: 0pt 2px 5px rgba(105, 108, 109,  0.7),  0px 0px 8px 5px rgba(208, 223, 226, 0.4) inset;
+  -webkit-box-shadow: 5px;
+  -moz-border-radius: 5px;
+     border-radius: 5px;
+}*/

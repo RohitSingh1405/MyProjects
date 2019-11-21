@@ -1,0 +1,23 @@
+nav
+{
+	padding-left: 5%;
+	font-size: 20px;
+}
+
+body {
+  font-family: 'Nunito Sans', sans-serif;
+  font-weight: 400;
+  line-height: 1.6;
+  color: #655A56;
+  /* background-image: linear-gradient(to right bottom, #DCDCDC, #A9A9A9);
+  background-image: url(computer-desk-doctor-48604.jpg);
+background-image: url(black-and-white-blood-pressure-blood-pressure-monitor-208556.jpg);*/
+  
+  background-image: url(OGFB4B0.jpg);
+  background-attachment: scroll;
+  background-size: cover;
+  background-repeat: no-repeat;
+  backface-visibility: hidden;
+  min-height: calc(100vh - 2 * 4vw); 
+  width: 100%;
+  }
